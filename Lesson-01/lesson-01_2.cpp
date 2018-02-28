@@ -8,7 +8,7 @@ int main()
 	double cm;
 	std::cout<< "Vashe chislo ser: \n";
 	std::cin >> mm;
-	cm= (double) mm / 10;
+	cm = (double) mm / 10;
 	std::cout<< cm <<" cm="<< mm << "mm\n";
 
 	return 0;
